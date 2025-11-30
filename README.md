@@ -77,5 +77,5 @@ The SSR is meant only as a **first-contact conceptual document**.
 For questions, informal discussion, or potential collaboration:
 
 - GitHub: [VFD-org](https://github.com/VFD-org)
-- (You can add a preferred contact email or X handle here if you want.)
+- Lee Smart Contact: contact@vibrationalfielddynamics.org X: @vfdorg
 
